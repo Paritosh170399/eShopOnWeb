@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 1e7d4ff2-7b5e-4e20-84d7-48b888d71cbb
-  WEBAPP-NAME: az400-paritosh-webapp
+  WEBAPP-NAME: paritoshrawat
 
 
 jobs:
